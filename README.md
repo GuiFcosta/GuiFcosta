@@ -6,7 +6,7 @@
 - 🌱 **Learning & Practicing:** API creation using Java, Spring Boot, and REST principles.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/guilherme-costa-a48aab208/)
 - ⚡ **Fun Fact:** I enjoy **road runnig**.
-- <a href="https://www.exemplo.com" target="_blank">Texto do link</a>
+- <a href="[https://www.exemplo.com](https://www.linkedin.com/in/guilherme-costa-a48aab208/)" target="_blank">LinkedIn</a>
 
 # 🚀 My Core Skill Focus
 
