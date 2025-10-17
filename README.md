@@ -6,7 +6,6 @@
 - 🌱 **Learning & Practicing:** API creation using Java, Spring Boot, and REST principles.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/guilherme-costa-a48aab208/)
 - ⚡ **Fun Fact:** I enjoy **road runnig**.
-- <a href="[https://www.exemplo.com](https://www.linkedin.com/in/guilherme-costa-a48aab208/)" target="_blank">LinkedIn</a>
 
 # 🚀 My Core Skill Focus
 
@@ -15,4 +14,3 @@ I am actively working to strengthen my skills in these key areas:
 - **Backend Development:** Java, Spring Boot, REST APIs.
 - **System Architecture:** Distributed Systems and C#/.NET development.
 - **Fundamentals:** Data Structures and clean code principles.
-
